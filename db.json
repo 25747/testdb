@@ -1,0 +1,22 @@
+{
+    "inventory": [
+        {
+            "id": 1,
+            "partNumber": "PN123",
+            "qtyOnHand": 1012,
+            "mfg": "MFG1"
+        },
+        {
+            "id": 2,
+            "partNumber": "PN456",
+            "qtyOnHand": 4000,
+            "mfg": "MFG2"
+        },
+        {
+            "id": 3,
+            "partNumber": "PN789",
+            "qtyOnHand": 560,
+            "mfg": "MFG3"
+        }
+    ]
+}
