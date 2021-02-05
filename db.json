@@ -110,116 +110,6 @@
 			"description": "national",
 			"qty_on_hand": 4873,
 			"date_received": "2019-10-04T00:03:21Z"
-		  },
-		  {
-			"id": 11,
-			"uid": "9881382",
-			"bin": "N-H-65",
-			"cart": "InoAuto G",
-			"domain": "SMT 2",
-			"part_num": "402-1011",
-			"description": "core",
-			"qty_on_hand": 1451,
-			"date_received": "2019-12-09T06:42:54Z"
-		  },
-		  {
-			"id": 12,
-			"uid": "2840505",
-			"bin": "O-M-07",
-			"cart": "InoAuto O",
-			"domain": "SMT 1",
-			"part_num": "402-1002",
-			"description": "systemic",
-			"qty_on_hand": 730,
-			"date_received": "2020-07-26T06:38:41Z"
-		  },
-		  {
-			"id": 13,
-			"uid": "2391239",
-			"bin": "K-C-74",
-			"cart": "InoAuto W",
-			"domain": "SMT 1",
-			"part_num": "402-1006",
-			"description": "portal",
-			"qty_on_hand": 2424,
-			"date_received": "2019-11-24T04:32:58Z"
-		  },
-		  {
-			"id": 14,
-			"uid": "1964153",
-			"bin": "S-R-32",
-			"cart": "InoAuto T",
-			"domain": "STOCK",
-			"part_num": "402-1011",
-			"description": "optimizing",
-			"qty_on_hand": 4869,
-			"date_received": "2020-12-28T12:18:34Z"
-		  },
-		  {
-			"id": 15,
-			"uid": "1749883",
-			"bin": "T-W-33",
-			"cart": "InoAuto E",
-			"domain": "STOCK",
-			"part_num": "402-1008",
-			"description": "Synchronised",
-			"qty_on_hand": 3467,
-			"date_received": "2020-07-04T15:18:31Z"
-		  },
-		  {
-			"id": 16,
-			"uid": "1928867",
-			"bin": "W-W-57",
-			"cart": "InoAuto J",
-			"domain": "STOCK",
-			"part_num": "402-1001",
-			"description": "software",
-			"qty_on_hand": 2235,
-			"date_received": "2020-10-06T06:13:36Z"
-		  },
-		  {
-			"id": 17,
-			"uid": "8856890",
-			"bin": "V-Y-00",
-			"cart": "InoAuto A",
-			"domain": "SMT 1",
-			"part_num": "402-1004",
-			"description": "collaboration",
-			"qty_on_hand": 1231,
-			"date_received": "2020-10-05T03:14:55Z"
-		  },
-		  {
-			"id": 18,
-			"uid": "8681084",
-			"bin": "U-P-72",
-			"cart": "InoAuto R",
-			"domain": "STOCK",
-			"part_num": "402-1009",
-			"description": "coherent",
-			"qty_on_hand": 4342,
-			"date_received": "2020-05-08T08:15:08Z"
-		  },
-		  {
-			"id": 19,
-			"uid": "8966290",
-			"bin": "A-G-35",
-			"cart": "InoAuto B",
-			"domain": "STOCK",
-			"part_num": "402-1010",
-			"description": "high-level",
-			"qty_on_hand": 415,
-			"date_received": "2020-02-11T15:43:16Z"
-		  },
-		  {
-			"id": 20,
-			"uid": "8667943",
-			"bin": "D-J-46",
-			"cart": "InoAuto B",
-			"domain": "SMT 2",
-			"part_num": "402-1004",
-			"description": "exuding",
-			"qty_on_hand": 1205,
-			"date_received": "2020-01-02T12:00:26Z"
 		  }
 		],
 	"transactions":
@@ -343,102 +233,79 @@
 		    "created_by": "Florri",
 		    "memo": null,
 		    "domain": "STOCK"
-		  },
-		  {
-		    "id": 11,
-		    "uid": "3823748",
-		    "action": "ADD",
-		    "part_num": "402-1004",
-		    "lot_no": "1818",
-		    "qty_change": -1328,
-		    "date_recorded": "2019-12-11T05:44:38Z",
-		    "created_by": "Grady",
-		    "memo": null,
-		    "domain": "STOCK"
-		  },
-		  {
-		    "id": 12,
-		    "uid": "8362127",
-		    "action": "REMOVE",
-		    "part_num": "402-1011",
-		    "lot_no": "6307",
-		    "qty_change": -2299,
-		    "date_recorded": "2020-01-20T20:18:53Z",
-		    "created_by": "Jacklin",
-		    "memo": null,
-		    "domain": "STOCK"
-		  },
-		  {
-		    "id": 13,
-		    "uid": "8852655",
-		    "action": "RETURN",
-		    "part_num": "402-1012",
-		    "lot_no": "4587",
-		    "qty_change": -1842,
-		    "date_recorded": "2019-07-23T19:58:41Z",
-		    "created_by": "Tamarah",
-		    "memo": null,
-		    "domain": "SMT 2"
-		  },
-		  {
-		    "id": 14,
-		    "uid": "9031204",
-		    "action": "REMOVE",
-		    "part_num": "402-1004",
-		    "lot_no": "8494",
-		    "qty_change": 2590,
-		    "date_recorded": "2019-12-26T05:50:41Z",
-		    "created_by": "Kayley",
-		    "memo": null,
-		    "domain": "SMT 1"
-		  },
-		  {
-		    "id": 15,
-		    "uid": "2762827",
-		    "action": "RETURN",
-		    "part_num": "402-1010",
-		    "lot_no": "6870",
-		    "qty_change": 2479,
-		    "date_recorded": "2019-01-31T15:42:11Z",
-		    "created_by": "Walden",
-		    "memo": null,
-		    "domain": "SMT 1"
-		  },
-		  {
-		    "id": 16,
-		    "uid": "8001174",
-		    "action": "REMOVE",
-		    "part_num": "402-1002",
-		    "lot_no": "7392",
-		    "qty_change": 3229,
-		    "date_recorded": "2019-09-12T02:17:18Z",
-		    "created_by": "Tracey",
-		    "memo": null,
-		    "domain": "SMT 1"
-		  },
-		  {
-		    "id": 17,
-		    "uid": "9656515",
-		    "action": "REMOVE",
-		    "part_num": "402-1010",
-		    "lot_no": "3462",
-		    "qty_change": 571,
-		    "date_recorded": "2019-12-21T07:34:42Z",
-		    "created_by": "Joshia",
-		    "memo": null,
-		    "domain": "STOCK"
-		  },
-		  {
-		    "id": 18,
-		    "uid": "0211158",
-		    "action": "REMOVE",
-		    "part_num": "402-1011",
-		    "lot_no": "3897",
-		    "qty_change": 1934,
-		    "date_recorded": "2019-03-14T13:51:49Z",
-		    "created_by": "Norton",
-		    "memo": null,
-		    "domain": "SMT 2"
 		  }
-		]
+		],
+	"total_inventory":
+	[
+	  {
+	    "id": 1,
+	    "part_num": "402-1004",
+	    "description": "core",
+	    "total_qty_on_hand": 603,
+	    "pkg_count": 8
+	  },
+	  {
+	    "id": 2,
+	    "part_num": "402-1010",
+	    "description": "neutral",
+	    "total_qty_on_hand": 7608,
+	    "pkg_count": 2
+	  },
+	  {
+	    "id": 3,
+	    "part_num": "402-1012",
+	    "description": "knowledge base",
+	    "total_qty_on_hand": 3504,
+	    "pkg_count": 4
+	  },
+	  {
+	    "id": 4,
+	    "part_num": "402-1002",
+	    "description": "alliance",
+	    "total_qty_on_hand": 3410,
+	    "pkg_count": 6
+	  },
+	  {
+	    "id": 5,
+	    "part_num": "402-1007",
+	    "description": "secondary",
+	    "total_qty_on_hand": 10753,
+	    "pkg_count": 10
+	  },
+	  {
+	    "id": 6,
+	    "part_num": "402-1002",
+	    "description": "optimizing",
+	    "total_qty_on_hand": 7408,
+	    "pkg_count": 2
+	  },
+	  {
+	    "id": 7,
+	    "part_num": "402-1010",
+	    "description": "Multi-lateral",
+	    "total_qty_on_hand": 7970,
+	    "pkg_count": 5
+	  },
+	  {
+	    "id": 8,
+	    "part_num": "402-1009",
+	    "description": "migration",
+	    "total_qty_on_hand": 7146,
+	    "pkg_count": 2
+	  },
+	  {
+	    "id": 9,
+	    "part_num": "402-1009",
+	    "description": "national",
+	    "total_qty_on_hand": 12109,
+	    "pkg_count": 10
+	  },
+	  {
+	    "id": 10,
+	    "part_num": "402-1010",
+	    "description": "Advanced",
+	    "total_qty_on_hand": 11841,
+	    "pkg_count": 9
+	  }
+	]
 }
