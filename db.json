@@ -439,30 +439,6 @@
 		    "created_by": "Norton",
 		    "memo": null,
 		    "domain": "SMT 2"
-		  },
-		  {
-		    "id": 19,
-		    "uid": "4077067",
-		    "action": "REMOVE",
-		    "part_num": "402-1009",
-		    "lot_no": "8346",
-		    "qty_change": 16,
-		    "date_recorded": "2019-06-19T11:37:42Z",
-		    "created_by": "Rustin",
-		    "memo": null,
-		    "domain": "SMT 1"
-		  },
-		  {
-		    "id": 20,
-		    "uid": "9825810",
-		    "action": "REMOVE",
-		    "part_num": "402-1010",
-		    "lot_no": "5630",
-		    "qty_change": -3784,
-		    "date_recorded": "2019-06-10T07:32:01Z",
-		    "created_by": "Brian",
-		    "memo": null,
-		    "domain": "SMT 1"
 		  }
 		]
 }
