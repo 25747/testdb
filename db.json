@@ -2327,75 +2327,126 @@
 		],
 	"items":
 	[
-	  {
-	    "id": 1,
-	    "part_num": "402-1004",
-	    "description": "core",
-	    "total_qty_on_hand": 603,
-	    "pkg_count": 8
-	  },
-	  {
-	    "id": 2,
-	    "part_num": "402-1010",
-	    "description": "neutral",
-	    "total_qty_on_hand": 7608,
-	    "pkg_count": 2
-	  },
-	  {
-	    "id": 3,
-	    "part_num": "402-1012",
-	    "description": "knowledge base",
-	    "total_qty_on_hand": 3504,
-	    "pkg_count": 4
-	  },
-	  {
-	    "id": 4,
-	    "part_num": "402-1002",
-	    "description": "alliance",
-	    "total_qty_on_hand": 3410,
-	    "pkg_count": 6
-	  },
-	  {
-	    "id": 5,
-	    "part_num": "402-1007",
-	    "description": "secondary",
-	    "total_qty_on_hand": 10753,
-	    "pkg_count": 10
-	  },
-	  {
-	    "id": 6,
-	    "part_num": "402-1002",
-	    "description": "optimizing",
-	    "total_qty_on_hand": 7408,
-	    "pkg_count": 2
-	  },
-	  {
-	    "id": 7,
-	    "part_num": "402-1010",
-	    "description": "Multi-lateral",
-	    "total_qty_on_hand": 7970,
-	    "pkg_count": 5
-	  },
-	  {
-	    "id": 8,
-	    "part_num": "402-1009",
-	    "description": "migration",
-	    "total_qty_on_hand": 7146,
-	    "pkg_count": 2
-	  },
-	  {
-	    "id": 9,
-	    "part_num": "402-1009",
-	    "description": "national",
-	    "total_qty_on_hand": 12109,
-	    "pkg_count": 10
-	  },
-	  {
-	    "id": 10,
-	    "part_num": "402-1010",
-	    "description": "Advanced",
-	    "total_qty_on_hand": 11841,
-	    "pkg_count": 9
-	  }
+{
+  "id": 1,
+  "part_num": "402-1001",
+  "description": "software",
+  "total_qty_on_hand": 46744,
+  "pkg_count": 19
+}, {
+  "id": 2,
+  "part_num": "402-1002",
+  "description": "data-warehouse",
+  "total_qty_on_hand": 46835,
+  "pkg_count": 19
+}, {
+  "id": 3,
+  "part_num": "402-1003",
+  "description": "cohesive",
+  "total_qty_on_hand": 33262,
+  "pkg_count": 14
+}, {
+  "id": 4,
+  "part_num": "402-1004",
+  "description": "Exclusive",
+  "total_qty_on_hand": 27004,
+  "pkg_count": 9
+}, {
+  "id": 5,
+  "part_num": "402-1005",
+  "description": "optimal",
+  "total_qty_on_hand": 38145,
+  "pkg_count": 15
+}, {
+  "id": 6,
+  "part_num": "402-1006",
+  "description": "dynamic",
+  "total_qty_on_hand": 50694,
+  "pkg_count": 19
+}, {
+  "id": 7,
+  "part_num": "402-1007",
+  "description": "Exclusive",
+  "total_qty_on_hand": 55576,
+  "pkg_count": 20
+}, {
+  "id": 8,
+  "part_num": "402-1008",
+  "description": "time-frame",
+  "total_qty_on_hand": 54220,
+  "pkg_count": 20
+}, {
+  "id": 9,
+  "part_num": "402-1009",
+  "description": "Enterprise-wide",
+  "total_qty_on_hand": 44388,
+  "pkg_count": 18
+}, {
+  "id": 10,
+  "part_num": "402-1010",
+  "description": "workforce",
+  "total_qty_on_hand": 44428,
+  "pkg_count": 16
+}, {
+  "id": 11,
+  "part_num": "402-1011",
+  "description": "flexibility",
+  "total_qty_on_hand": 39032,
+  "pkg_count": 13
+}, {
+  "id": 12,
+  "part_num": "402-1012",
+  "description": "architecture",
+  "total_qty_on_hand": 43665,
+  "pkg_count": 18
+}, {
+  "id": 13,
+  "part_num": "402-1013",
+  "description": "Business-focused",
+  "total_qty_on_hand": 0,
+  "pkg_count": 0
+}, {
+  "id": 14,
+  "part_num": "402-1014",
+  "description": "optimal",
+  "total_qty_on_hand": 0,
+  "pkg_count": 0
+}, {
+  "id": 15,
+  "part_num": "402-1015",
+  "description": "Total",
+  "total_qty_on_hand": 0,
+  "pkg_count": 0
+}, {
+  "id": 16,
+  "part_num": "402-1016",
+  "description": "Vision-oriented",
+  "total_qty_on_hand": 0,
+  "pkg_count": 0
+}, {
+  "id": 17,
+  "part_num": "402-1017",
+  "description": "instruction set",
+  "total_qty_on_hand": 0,
+  "pkg_count": 0
+}, {
+  "id": 18,
+  "part_num": "402-1018",
+  "description": "emulation",
+  "total_qty_on_hand": 0,
+  "pkg_count": 0
+}, {
+  "id": 19,
+  "part_num": "402-1019",
+  "description": "Function-based",
+  "total_qty_on_hand": 0,
+  "pkg_count": 0
+}, {
+  "id": 20,
+  "part_num": "402-1020",
+  "description": "multi-tasking",
+  "total_qty_on_hand": 0,
+  "pkg_count": 0
+}
 	]
 }
