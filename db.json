@@ -2448,7 +2448,7 @@
   "total_qty_on_hand": 0,
   "pkg_count": 0
 }
-	]
+	],
 	"min_max": [
 		{"id":1,"status":"Under Min Qty","part_num":"402-1001","qty_max":20000,"qty_min":1000,"qty_on_hand":9540,"qt_var":1628,"pkg_max":1,"pkg_min":5,"pkg_on_hand":4,"pkg_var":2,"mpq":5000,"pkg_to_order":5,"qty_to_order":3000,"Description":"Programmable"},
 		{"id":2,"status":"Under Min Pkg","part_num":"402-1003","qty_max":10000,"qty_min":2000,"qty_on_hand":10961,"qt_var":3683,"pkg_max":5,"pkg_min":6,"pkg_on_hand":3,"pkg_var":2,"mpq":1000,"pkg_to_order":1,"qty_to_order":3000,"Description":"Automated"},
